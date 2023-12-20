@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Rishav (@mandal02)
+- 👋 Hi, I’m Rishav (@rishavxyz)
 - 🔭 I’m currently working on creating a desktop enviroment with bspwm, polybar and dmenu
 - 👀 I’m interested in making frontend applications, creating shell scripts
 - 🌱 I’m currently learning SvelteKit 2

@@ -8,3 +8,5 @@
 - 🤔 I’m looking for help with a good job as an engineer
 - 💬 Ask me about JavaScript and Linux
 - 📫 How to reach me: **Don't!**
+
+![Badge by CodeWars](https://www.codewars.com/users/rishavxyz/badges/large)

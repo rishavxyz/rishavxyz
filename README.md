@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Svelte or Astro projects, API handling, Ui design
 - 🤔 I’m looking for help with a good job as an engineer
 - 💬 Ask me about JavaScript and Linux
-- 📫 How to reach me: **Don't!**
+- 📫 How to reach me: iamrishav@outlook.in
 
 ![Badge by CodeWars](https://www.codewars.com/users/rishavxyz/badges/large)

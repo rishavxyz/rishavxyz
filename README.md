@@ -1,12 +1,9 @@
-### Hi there 👋
+Computer science bachelor, I love developing frontend apps with a blend of design experience.
 
-- 👋 Hi, I’m Rishav (@rishavxyz)
-- 🔭 I’m currently working on creating a desktop enviroment with bspwm, polybar and dmenu
-- 👀 I’m interested in software development, as I am CS engineer
-- 🌱 I’m currently learning Haskell
-- 👯 I’m looking to collaborate on Svelte or Astro projects, API handling, Ui design
-- 🤔 I’m looking for help with a good job as an engineer
-- 💬 Ask me about JavaScript and Linux
-- 📫 How to reach me: iamrishav@outlook.in
+**My most used web tools and frameworks are** Svelte, Astro, Supabase and CosmicJS.
 
-![Badge by CodeWars](https://www.codewars.com/users/rishavxyz/badges/large)
+I am also interested in functional programming and currently learning Haskell.
+
+For any query email me at <a href="mailto:email@rishavmandal.xyz">email@rishavmandal.xyz</a>
+
+Thank you! 👋
